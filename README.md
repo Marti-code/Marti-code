@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marti-code
 - 👀 I’m interested in programming, photography and british English
-- 🌱 I’m currently learning python and THREE.js
-- 💞️ I’m looking to collaborate on all sorts of projects, I enjoy challenges and I learn quickly especially by making projects
+- 🌱 I’m currently learning web development and THREE.js
+- 💞️ I enjoy challenges and I’m looking to collaborate on all sorts of projects 
 - 📫 How to reach me mail: marti.huza@gmail.com, instagram: @marti.shots
 
 <!---
