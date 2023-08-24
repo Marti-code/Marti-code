@@ -27,9 +27,9 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Marti-code"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marti-code&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<!---
 <a href="http://www.github.com/Marti-code"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marti-code&layout=compact&theme=vision-friendly-dark" /></a>
-
+--->
 <!---
 Marti-code/Marti-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
