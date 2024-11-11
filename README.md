@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marti-code
-- 👀 I’m interested in programming, hacking, and photography
-- 🌱 I’m currently working with Agora.io, trying to develop a communicator app (https://tutorme-frontend.onrender.com)
+- 👀 I’m interested in programming, hacking, and cats
+- 🌱 Check out what I'm currently working on
 - 💞️ I enjoy challenges and I'm open to any collaboration opportunities
 - 📫 How to reach me email: marti.huza@gmail.com, instagram: @marti.shots
 
