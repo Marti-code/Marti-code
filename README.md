@@ -1,4 +1,4 @@
-# Don't look at the snake
+# Don't look at the snake!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
